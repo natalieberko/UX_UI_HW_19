@@ -47,6 +47,19 @@ body {
     font-weight: bold;
     font-size: 40px;
   }
+  .hero button {
+    background-color: #5A94FF;
+    padding: 15px;
+    color: white;
+    border: 1px solid #5A94FF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    width: 169px;
+    border-radius: 4px;
+    position: absolute;
+    right: 39vw;
+    top: 80vh;
+  }
 
   /* my story styling */
   .myStory {
@@ -82,6 +95,23 @@ body {
     font-weight: bold;
     font-size: 30px;
     margin-bottom: 10vh;
+  }
+  .myStory button {
+    background-color: #5A94FF;
+    padding: 15px;
+    color: white;
+    border: 1px solid #5A94FF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    width: 169px;
+    border-radius: 4px;
+    margin-top: 10vh;
+  }
+  #seeWork {
+    margin-left: 36vw;
+  }
+  #contactMe {
+    margin-left: 5vh;
   }
  
   /* my skills styling */
