@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+  }
+  .logo {
+    height: 40px;
+    width: 40px;
+    padding-left: 124px;
+  }
+  header {
+    background-color:white;
+    padding: 15px;
+  }
+  header ul {
+    float: right;
+    color: #222222;
+    font-family: 'Raleway' sans-serif;
+    font-size: 19px;
+    padding-right: 124px;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 25px;
+  }
+  header p {
+    display: inline-block;
+  }
+
+/* Hero Styling */
+  .hero {
+    height: 700px;
+  }
+  .heroContent p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    left: 48vw;
+    top: 50vh;
+    width: 30%;
+    line-height: 2.6;
+  }
+  .heroContent img {
+    margin-left: 231px;
+  }
+  .hero h1 {
+    margin-left: 139px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  /* my story styling */
+  .myStory {
+      margin-left: 139px;
+      display: block;
+      width: 904px;
+      margin-bottom: 
+  }
+
+ 
+/* footer styling */
+  footer {
+  background-color: #e0ebff;
+  }
+  #email a {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: black;
+  text-decoration: none;
+  padding-top: 10vh;
+  }
+  .contactItems {
+  width: 585px;
+  height: 426px;
+  background-color: rgba(90,148,255,0.36);
+  padding: 15px;
+  padding-left: 40px;
+  padding-right: 90px;
+  position: relative;
+  left: 10%;
+  top: -11vh;
+  border: 0px;
+  border-radius: 4px;
+  }
+  #footerText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  padding-top: 43px;
+  }
+  #copyright {
+  text-align: center;
+  margin: 0 auto;
+  }
+  .socialMedia {
+  display: flex;
+  width: 235px;
+  position: absolute;
+  top: 350px;
+  right: 58px;
+  align-items: center;
+  justify-content: space-between;
+  }
+  #connectText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  display: flex;
+  position: absolute;
+  top: 274px;
+  right:114px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .workGrid {
+      margin-right: 18px;
+      margin-left: 18px;
+      grid-template-rows: 412px 412px 412px 412px;
+      grid-template-columns: 1fr;
+      grid-template-areas: 
+      "screens1"
+      "project1"
+      "screens2"
+      "project2"
+      "screens3"
+      "project3"
+      "screens4"
+      "project4"
+      ;
+  }
+  .workGridArea {
+    margin-top: 0;
+  }
+  #project1, #project2, #project3, #project4 {
+    margin-bottom: 40px;
+  }
+  #project4 {
+    margin-bottom: 200px;
+  }
+  }
