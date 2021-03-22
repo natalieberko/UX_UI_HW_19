@@ -132,11 +132,9 @@ h4:before {
 }
 #screens2 {
   grid-area: screens2;
-
 }
 #screens3 {
   grid-area: screens3;
-
 }
 #screens4 {
   grid-area: screens4;
@@ -299,7 +297,4 @@ right:114px;
   height: 312px;
   width: 312px;
 }
-
-
-
-  
+}
