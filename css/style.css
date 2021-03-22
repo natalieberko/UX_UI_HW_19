@@ -6,8 +6,11 @@ body {
   width: 40px;
   padding-left: 124px;
 }
+a:visited {
+  color:#222222;
+}
 header {
-  background-color: white;
+  background-color:rgba(255,255,255,.67);
   padding: 15px;
 }
 header ul {
@@ -24,6 +27,18 @@ header li {
 header p {
   display: inline-block;
 }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  overflow: none;
+}
+/*.sticky is a dynamic class I added and used it in the
+js file in order to create a fixed nav menu*/
+/*it works, but having some alignment issues with the 
+nav bar itself and hero image (see js notes)*/
+
+/* hero styling*/
 .heroImg {
   margin-top: auto;
   background-color: #e0ebff;
@@ -54,6 +69,7 @@ header p {
   width: 75%;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 #heroPhoto{
   width: 25%;
@@ -61,6 +77,7 @@ header p {
 #seeWork {
   margin-top: 15vh;
   color:black;
+  font-family: 'Raleway', sans-serif;
   font-size: 16px;
   border: none;
   font-weight: bold;
@@ -73,10 +90,13 @@ header p {
 .viewProject {
   padding: 15px;
   color: black;
+  font-family: 'Raleway', sans-serif;
   font-size: 16px;
   border: none;
   background-color: white;
 }
+
+/*My Work section*/
  h4 {
   overflow: hidden;
   text-align: center;
@@ -97,6 +117,49 @@ h4:before {
   right: 0.5em;
   margin-left: -61%;
 }
+.pillBox {
+  border-radius: 20px; 
+  line-height: 25px;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  position: relative;
+  bottom: 12vh;
+  left: 5.5vw;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+}
+#productDesign, #userResearch {
+  display: inline;
+  background-color:#6973ED;
+}
+#userResearch {
+  margin-left: 10px;
+}
+#productDesign2, #Ecommerce {
+  display: inline;
+  background-color:#FA8072;
+}
+#Ecommerce {
+  margin-left: 10px;
+}
+#responsiveDesign, #infoArc {
+  display: inline;
+  background-color:#4B9AD5;
+}
+#infoArc {
+  margin-left: 10px;
+}
+#uxui, #mobileFirst {
+  display: inline;
+  background-color:#E6A34A;
+}
+#mobileFirst {
+  margin-left: 10px;
+}
+
+
 
 .workGrid {
     display: grid;
@@ -115,6 +178,8 @@ h4:before {
 }
 #project1 {
     grid-area: project1;
+    display: flex;
+    flex-direction: column;
 }
 #project2 {
     grid-area: project2;
@@ -154,7 +219,7 @@ h4:before {
 
 .viewProject {
 font-weight: bold;
-width: 229px;
+width: 152px;
 background-color: rgba(255,255,255,.67);
 text-align: end;
 }
@@ -174,6 +239,7 @@ color: white;
 line-height: 1.6;
 }
 
+/*footer styling*/
 footer {
 background-color: #e0ebff;
 }
@@ -217,6 +283,7 @@ right: 58px;
 align-items: center;
 justify-content: space-between;
 }
+
 #connectText {
 font-family: 'Raleway', sans-serif;
 font-size: 19px;

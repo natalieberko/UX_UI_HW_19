@@ -5,12 +5,13 @@
     <link href="css/style.css" type="text/css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
   </head>
   <body>
 
 
 <!--Navigation-->
-    <header>
+  <header>
       <img class=logo src="images/logo.svg">
       <ul>
         <a href="#myWork"><li id="work">Work</li></a>
@@ -18,7 +19,7 @@
         <a href="#myFooter"><li>Contact</li></a>
         <li>Resume</li>
       </ul>
-    </header>
+  </header>
 <!--Hero Image-->
 <section class="heroImg">
   <div class="heroContent">
@@ -38,12 +39,18 @@
               <div id="project1" class="workGridArea">
                 <h3>Whereabouts</h3>
                 <p>An app to help modern-day travelers find unique activities at their desired destination.</p>
+                <div><span class="pillBox" id="productDesign">Product Design</span>
+                <span class="pillBox" id="userResearch">User Research</span>
+              </div>
                 <button class="viewProject">View Project</button>
             </div>
             <div id="screens1" class="workGridArea"><img src="images/whereabouts image.svg"></div>
             <div id="project2" class="workGridArea">
                   <h3>Thrifti</h3>
                   <p>Designing a consignment shopping experience with curated boxes. </p>
+                  <div><span class="pillBox" id="productDesign2">Product Design</span>
+                    <span class="pillBox" id="Ecommerce">E-commerce</span>
+                  </div>
                   <button class="viewProject">View Project</button>
               </div>
               <div id="screens2" class="workGridArea"><img src="images/thrifti image.svg"></div>
@@ -51,12 +58,18 @@
               <div id="project3" class="workGridArea">
                 <h3>NSA.gov</h3>
                 <p>Responsive redesign of the National Security Agency.</p>
+                <div><span class="pillBox" id="responsiveDesign">Responsive Design</span>
+                  <span class="pillBox" id="infoArc">Information Architecture</span>
+                </div>
                 <button class="viewProject">View Project</button>
           </div>
                 <div id="screens3" class="workGridArea"><img src="images/NSA image.svg"></div>
           <div id="project4" class="workGridArea">
             <h3>PAWS of Austin</h3>
             <p>Non-profit redesign of a local Great Dane Rescue.</p>
+            <div><span class="pillBox" id="uxui">UX/UI</span>
+              <span class="pillBox" id="mobileFirst">Mobile First Design</span>
+            </div>
             <button class="viewProject">View Project</button>
         </div>
         <div id="screens4" class="workGridArea"><img src="images/PAWS image.svg"></div>
@@ -70,7 +83,7 @@
             <div class="letsConnect">
               <p id="connectText">Let's Connect!</p></div>
               <div class="socialMedia">
-            <a href="https://www.linkedin.com/in/natalie-berko-475393181/" target="_blank" rel="noreferrer noopener"><img src="images/linkedin logo.svg"></a>
+            <a href="https://www.linkedin.com/in/natalie-berko-475393181/" target="_blank" rel="noreferrer noopener"><img src="images/linkedin logo.svg" id="linkedIn"></a>
             <a href="https://twitter.com/berko_natalie" target="_blanke" rel="noreferrer noopener"><img src="images/twitter logo.svg"></a>
             <a href="https://www.behance.net/natalieberko" target="_blanke" rel="noreferrer noopener"><img src="images/behance-logo.svg"></a>
           </div>
@@ -88,6 +101,5 @@
     
 <script src="js/index.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 </body>
 </html>
