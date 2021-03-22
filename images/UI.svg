@@ -1,0 +1,428 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193" height="138" viewBox="0 0 193 138">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.207" y1="0.838" x2="-0.034" y2="0.245" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a1c1c"/>
+      <stop offset="1" stop-color="#393d3d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="0.09" y1="0.09" x2="1.061" y2="1.061" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="1.231" y1="0.849" x2="-0.089" y2="0.219" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="0.5" y1="1.227" x2="0.5" y2="-0.748" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-22" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-25" x1="0.842" y1="0.842" x2="0.242" y2="0.242" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-27" x1="1.001" y1="1.359" x2="0.293" y2="0.145" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-28" x1="-71.23" y1="-5.031" x2="-74.057" y2="-7.421" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-29" x1="0.955" y1="1.518" x2="0.339" y2="0.476" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-30" x1="1.419" y1="1.124" x2="0.085" y2="0.244" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-32" x1="0.913" y1="1.278" x2="0.329" y2="0.283" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-33" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-36" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-37" x1="8.883" y1="3.545" x2="9.883" y2="3.545" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-38" x1="10.016" y1="8.828" x2="11.187" y2="8.828" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-39" x1="0.146" y1="0.146" x2="0.854" y2="0.854" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-41" x1="1.322" y1="0.892" x2="0.104" y2="0.311" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-47" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-60" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-66" x1="0.142" y1="0.5" x2="0.858" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="UI" transform="translate(-591 -1511)">
+    <ellipse id="Ellipse_81" data-name="Ellipse 81" cx="68.5" cy="69" rx="68.5" ry="69" transform="translate(591 1511)" fill="rgba(250,128,114,0.15)"/>
+    <circle id="Ellipse_82" data-name="Ellipse 82" cx="35.5" cy="35.5" r="35.5" transform="translate(713 1560)" fill="rgba(39,77,189,0.1)"/>
+    <g id="Group_226" data-name="Group 226" transform="translate(566.834 1497.997)">
+      <g id="Group_155" data-name="Group 155" transform="translate(48.666 50.452)">
+        <rect id="Rectangle_1558" data-name="Rectangle 1558" width="39.411" height="82.55" rx="7.49" fill="url(#linear-gradient)"/>
+        <g id="Group_154" data-name="Group 154" transform="translate(3.261 5.269)">
+          <g id="Group_125" data-name="Group 125">
+            <rect id="Rectangle_1559" data-name="Rectangle 1559" width="32.754" height="4.906" rx="2.453" fill="#fff"/>
+            <path id="Path_1709" data-name="Path 1709" d="M123.882,84.719l-.465-.465a.821.821,0,0,0-.066-1.082.842.842,0,0,0-1.162,0,.82.82,0,0,0,1.082,1.228l.465.465Zm-1.547-.531a.615.615,0,1,1,.87,0A.611.611,0,0,1,122.335,84.188Z" transform="translate(-110.242 -81.817)" fill="url(#linear-gradient-2)"/>
+            <text id="Search" transform="translate(15.047 2.953)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">Search</tspan></text>
+          </g>
+          <g id="Group_130" data-name="Group 130" transform="translate(0 8.089)">
+            <rect id="Rectangle_1560" data-name="Rectangle 1560" width="32.754" height="15.482" rx="2.05" fill="#fff"/>
+            <g id="Group_129" data-name="Group 129" transform="translate(2.23 1.024)">
+              <g id="Group_126" data-name="Group 126">
+                <text id="THU" transform="translate(0.781 2)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">THU</tspan></text>
+                <text id="_18" data-name="18" transform="translate(0 10.338)" fill="#1a1c1c" font-size="8" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">18</tspan></text>
+              </g>
+              <g id="Group_128" data-name="Group 128" transform="translate(13.517 0.122)">
+                <path id="Path_1710" data-name="Path 1710" d="M187.468,156.067a.824.824,0,1,0-.824.824A.824.824,0,0,0,187.468,156.067Z" transform="translate(-176.459 -148.073)" fill="url(#linear-gradient-3)"/>
+                <g id="Group_127" data-name="Group 127" transform="translate(0 2.495)">
+                  <text id="S" transform="translate(0.265 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">S</tspan></text>
+                  <text id="M" transform="translate(2.579 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">M</tspan></text>
+                  <text id="T" transform="translate(5.052 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">T</tspan></text>
+                  <text id="W" transform="translate(7.313 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">W</tspan></text>
+                  <text id="T-2" data-name="T" transform="translate(9.824 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">T</tspan></text>
+                  <text id="F" transform="translate(12.224 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">F</tspan></text>
+                  <text id="S-2" data-name="S" transform="translate(14.582 1)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">S</tspan></text>
+                  <text id="_2" data-name="2" transform="translate(5.101 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">2</tspan></text>
+                  <text id="_3" data-name="3" transform="translate(7.538 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">3</tspan></text>
+                  <text id="_3-2" data-name="3" transform="translate(9.839 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">3</tspan></text>
+                  <text id="_5" data-name="5" transform="translate(12.168 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">5</tspan></text>
+                  <text id="_6" data-name="6" transform="translate(14.613 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">6</tspan></text>
+                  <text id="_7" data-name="7" transform="translate(0.286 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">7</tspan></text>
+                  <text id="_8" data-name="8" transform="translate(2.678 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">8</tspan></text>
+                  <text id="_1" data-name="1" transform="translate(2.837 2.501)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">1</tspan></text>
+                  <text id="_9" data-name="9" transform="translate(5.095 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">9</tspan></text>
+                  <text id="_10" data-name="10" transform="translate(7.393 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">10</tspan></text>
+                  <text id="_11" data-name="11" transform="translate(9.832 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">11</tspan></text>
+                  <text id="_12" data-name="12" transform="translate(12.011 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">12</tspan></text>
+                  <text id="_13" data-name="13" transform="translate(14.474 4.135)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">13</tspan></text>
+                  <text id="_14" data-name="14" transform="translate(0.147 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">14</tspan></text>
+                  <text id="_15" data-name="15" transform="translate(2.55 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">15</tspan></text>
+                  <text id="_16" data-name="16" transform="translate(4.954 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">16</tspan></text>
+                  <text id="_17" data-name="17" transform="translate(7.413 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">17</tspan></text>
+                  <text id="_21" data-name="21" transform="translate(0 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">21</tspan></text>
+                  <text id="_22" data-name="22" transform="translate(2.39 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">22</tspan></text>
+                  <text id="_23" data-name="23" transform="translate(4.814 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">23</tspan></text>
+                  <text id="_24" data-name="24" transform="translate(7.241 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">24</tspan></text>
+                  <text id="_25" data-name="25" transform="translate(9.543 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">25</tspan></text>
+                  <text id="_26" data-name="26" transform="translate(11.862 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">26</tspan></text>
+                  <text id="_27" data-name="27" transform="translate(14.347 7.404)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">27</tspan></text>
+                  <text id="_28" data-name="28" transform="translate(0.02 9.039)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">28</tspan></text>
+                  <text id="_29" data-name="29" transform="translate(2.386 9.039)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">29</tspan></text>
+                  <text id="_30" data-name="30" transform="translate(4.801 9.039)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">30</tspan></text>
+                  <text id="_18-2" data-name="18" transform="translate(9.673 5.77)" fill="#fbfbfb" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">18</tspan></text>
+                  <text id="_19" data-name="19" transform="translate(12.006 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">19</tspan></text>
+                  <text id="_20" data-name="20" transform="translate(14.327 5.77)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">20</tspan></text>
+                </g>
+                <text id="APR" transform="translate(6.21 1)" fill="#1a1c1c" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface" letter-spacing="0.1em"><tspan x="0" y="0">APR</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Group_132" data-name="Group 132" transform="translate(0 42.877)">
+            <rect id="Rectangle_1561" data-name="Rectangle 1561" width="15.416" height="15.482" rx="2.05" fill="#fff"/>
+            <g id="Group_131" data-name="Group 131" transform="translate(2.723 3.591)">
+              <text id="_07:30" data-name="07:30" transform="translate(0 2)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">07:30</tspan></text>
+              <text id="AM" transform="translate(1.807 6.009)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">AM</tspan></text>
+            </g>
+          </g>
+          <g id="Group_136" data-name="Group 136" transform="translate(17.338 42.877)">
+            <rect id="Rectangle_1562" data-name="Rectangle 1562" width="15.416" height="15.482" rx="2.05" fill="#fff"/>
+            <g id="Group_135" data-name="Group 135" transform="translate(2.149 2.853)">
+              <g id="Group_133" data-name="Group 133">
+                <path id="Path_1711" data-name="Path 1711" d="M190.86,302.42h-.414a4.968,4.968,0,0,0-4.8-4.983l.015-.413A5.38,5.38,0,0,1,190.86,302.42Z" transform="translate(-180.061 -297.02)" fill="#fff"/>
+                <path id="Path_1712" data-name="Path 1712" d="M164.044,307.806a5.4,5.4,0,1,1,0-10.8c.067,0,.134,0,.2,0l-.014.413c-.062,0-.124,0-.186,0a4.986,4.986,0,1,0,4.986,4.986h.414A5.406,5.406,0,0,1,164.044,307.806Z" transform="translate(-158.644 -297.006)" fill="url(#linear-gradient-3)"/>
+              </g>
+              <g id="Group_134" data-name="Group 134" transform="translate(2.428 2.157)">
+                <text id="_75_" data-name="75%" transform="translate(0 3.269)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">75%</tspan></text>
+                <path id="Path_1713" data-name="Path 1713" d="M181.8,307.434h-.591l-.635.962h.724l-.463.774,1.466-1.149h-.893Z" transform="translate(-178.466 -307.434)" fill="url(#linear-gradient-3)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_139" data-name="Group 139" transform="translate(0 25.638)">
+            <rect id="Rectangle_1563" data-name="Rectangle 1563" width="15.416" height="15.482" rx="2.05" fill="#fff"/>
+            <g id="Group_138" data-name="Group 138" transform="translate(2.517 1.017)">
+              <text id="Elegant_City" data-name="Elegant City" transform="translate(0 11.627)" fill="#1a1c1c" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">Elegant City</tspan></text>
+              <text id="Cloudy" transform="translate(0.145 4.803)" fill="#1a1c1c" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">Cloudy</tspan></text>
+              <path id="Path_1714" data-name="Path 1714" d="M79.035,236.638a.846.846,0,1,0,0-1.692l-.047,0a1.176,1.176,0,1,0-1.405,1.635Z" transform="translate(-76.763 -228.328)" fill="url(#linear-gradient-3)"/>
+              <g id="Group_137" data-name="Group 137" transform="translate(0.199)">
+                <text id="_25_C" data-name="25 C" transform="translate(0 2)" fill="#1a1c1c" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">25 C</tspan></text>
+                <path id="Path_1715" data-name="Path 1715" d="M94.665,209.65a.249.249,0,1,1,.249-.249A.249.249,0,0,1,94.665,209.65Zm0-.343a.094.094,0,1,0,.094.094A.094.094,0,0,0,94.665,209.307Z" transform="translate(-90.93 -208.25)" fill="#1a1c1c"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_140" data-name="Group 140" transform="translate(20.218 27.729)">
+            <text id="Song_Title_Here" data-name="Song Title Here" transform="translate(4 1)" fill="#fff" font-size="1" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-3.753" y="0">Song Title Here</tspan></text>
+            <text id="Artist_Name" data-name="Artist Name" transform="translate(4.655 3.172)" fill="#fff" font-size="1" font-family="OpenSans, Open Sans"><tspan x="-2.769" y="0">Artist Name</tspan></text>
+          </g>
+          <g id="Group_153" data-name="Group 153" transform="translate(17.338 25.638)">
+            <rect id="Rectangle_1564" data-name="Rectangle 1564" width="15.416" height="15.482" rx="2.05" fill="#fff"/>
+            <g id="Group_152" data-name="Group 152" transform="translate(1.073 1.972)">
+              <g id="Group_151" data-name="Group 151" transform="translate(0 5.819)">
+                <g id="Group_148" data-name="Group 148" transform="translate(1.338 1.859)">
+                  <g id="Group_143" data-name="Group 143" transform="translate(3.381 0)">
+                    <g id="Group_142" data-name="Group 142" transform="translate(0)">
+                      <g id="Group_141" data-name="Group 141">
+                        <circle id="Ellipse_60" data-name="Ellipse 60" cx="1.653" cy="1.653" r="1.653" transform="translate(0 3.219) rotate(-76.764)" fill="url(#linear-gradient-7)"/>
+                      </g>
+                    </g>
+                    <path id="Path_1716" data-name="Path 1716" d="M183.77,254.372l1.05-.69-1.05-.69Z" transform="translate(-182.215 -251.655)" fill="#fff"/>
+                  </g>
+                  <g id="Group_147" data-name="Group 147" transform="translate(0 1.483)">
+                    <g id="Group_145" data-name="Group 145">
+                      <g id="Group_144" data-name="Group 144">
+                        <path id="Path_1717" data-name="Path 1717" d="M162.456,253.694l-.817.536.817.536Z" transform="translate(-161.281 -253.694)" fill="url(#linear-gradient-3)"/>
+                        <rect id="Rectangle_1565" data-name="Rectangle 1565" width="0.075" height="1.073" fill="url(#linear-gradient-3)"/>
+                      </g>
+                    </g>
+                    <g id="Group_146" data-name="Group 146" transform="translate(9.563)">
+                      <path id="Path_1718" data-name="Path 1718" d="M206.139,254.767l.817-.536-.817-.536Z" transform="translate(-206.139 -253.694)" fill="url(#linear-gradient-3)"/>
+                      <rect id="Rectangle_1566" data-name="Rectangle 1566" width="0.075" height="1.073" transform="translate(1.101 0)" fill="url(#linear-gradient-3)"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_150" data-name="Group 150">
+                  <g id="Group_149" data-name="Group 149">
+                    <rect id="Rectangle_1567" data-name="Rectangle 1567" width="13.413" height="0.265" fill="#d4d8d9"/>
+                    <rect id="Rectangle_1568" data-name="Rectangle 1568" width="9.724" height="0.265" fill="url(#linear-gradient-3)"/>
+                  </g>
+                </g>
+              </g>
+              <text id="Artist_Name-2" data-name="Artist Name" transform="translate(2.514 1)" fill="#1a1c1c" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">Artist Name</tspan></text>
+              <text id="Title_Goes_Here" data-name="Title Goes Here" transform="translate(1.329 3.032)" fill="#1a1c1c" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">Title Goes Here</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_189" data-name="Group 189" transform="translate(144.255 50.452)">
+        <rect id="Rectangle_1569" data-name="Rectangle 1569" width="39.411" height="82.55" rx="7.49" fill="url(#linear-gradient-13)"/>
+        <g id="Group_188" data-name="Group 188" transform="translate(2.743 6.586)">
+          <g id="Group_164" data-name="Group 164" transform="translate(0 61.724)">
+            <rect id="Rectangle_1570" data-name="Rectangle 1570" width="34.451" height="9.246" rx="4.623" fill="#fff"/>
+            <g id="Group_158" data-name="Group 158" transform="translate(26.768 1.677)">
+              <rect id="Rectangle_1571" data-name="Rectangle 1571" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_157" data-name="Group 157" transform="translate(1.283 1.316)">
+                <g id="Group_156" data-name="Group 156">
+                  <path id="Path_1719" data-name="Path 1719" d="M662.536,395.236v1.932h0a.629.629,0,0,1-.4.519c-.3.15-.625.12-.718-.068s.078-.462.382-.612a.772.772,0,0,1,.523-.077v-1.475l-1.491.439v1.783h0a.629.629,0,0,1-.4.519c-.3.15-.625.12-.718-.068s.078-.462.382-.612a.772.772,0,0,1,.523-.077v-1.7l1.932-.568Z" transform="translate(-659.673 -395.169)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_160" data-name="Group 160" transform="translate(10 1.677)">
+              <rect id="Rectangle_1572" data-name="Rectangle 1572" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_159" data-name="Group 159" transform="translate(1.127 1.167)">
+                <path id="Path_1720" data-name="Path 1720" d="M585.764,402.157a.2.2,0,1,0,.2.2A.2.2,0,0,0,585.764,402.157Z" transform="translate(-583.97 -400.562)" fill="#fff"/>
+                <path id="Path_1721" data-name="Path 1721" d="M579.649,394.448a1.793,1.793,0,1,0,1.793,1.793A1.793,1.793,0,0,0,579.649,394.448Zm.471,2.262h0v0h0l-1.366.428.429-1.366h0v0h0l1.366-.428-.428,1.366Z" transform="translate(-577.856 -394.448)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_161" data-name="Group 161" transform="translate(1.616 1.677)">
+              <rect id="Rectangle_1573" data-name="Rectangle 1573" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <path id="Path_1722" data-name="Path 1722" d="M540.509,397H537a.108.108,0,0,0-.109.109v2.236a.11.11,0,0,0,.109.109h3.514a.111.111,0,0,0,.109-.109v-2.236A.11.11,0,0,0,540.509,397Zm-.5.729-.663.637.494.495a.108.108,0,0,1,0,.155.111.111,0,0,1-.153,0l-.5-.5-.365.348a.1.1,0,0,1-.074.031.1.1,0,0,1-.077-.031l-.363-.348-.479.479a.109.109,0,0,1-.079.031.1.1,0,0,1-.077-.031.109.109,0,0,1,0-.155l.477-.477-.639-.61a.109.109,0,1,1,.151-.158l1.085,1.039,1.107-1.063a.11.11,0,0,1,.155,0A.108.108,0,0,1,540.013,397.729Z" transform="translate(-535.849 -395.305)" fill="#fff"/>
+            </g>
+            <g id="Group_163" data-name="Group 163" transform="translate(18.384 1.677)">
+              <rect id="Rectangle_1574" data-name="Rectangle 1574" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_162" data-name="Group 162" transform="translate(1.255 1.35)">
+                <path id="Path_1723" data-name="Path 1723" d="M621.6,395.964l-.134-.405a.322.322,0,0,0-.308-.223h-.972a.324.324,0,0,0-.308.223l-.134.405h-.469a.272.272,0,0,0-.272.272v1.9a.272.272,0,0,0,.272.272h2.794a.272.272,0,0,0,.272-.272v-1.9a.272.272,0,0,0-.272-.272Zm-.929,1.773a.658.658,0,1,1,.658-.658A.657.657,0,0,1,620.672,397.736Z" transform="translate(-619.003 -395.335)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_187" data-name="Group 187" transform="translate(1.73)">
+            <g id="Group_172" data-name="Group 172" transform="translate(0 9.212)">
+              <rect id="Rectangle_1575" data-name="Rectangle 1575" width="30.832" height="15.482" rx="2.05" fill="#fff"/>
+              <g id="Group_169" data-name="Group 169" transform="translate(9.417 2.954)">
+                <g id="Group_165" data-name="Group 165">
+                  <text id="KEEP_IT" data-name="KEEP IT" transform="translate(6.021 3.799)" fill="#1a1c1c" font-size="4" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-7.668" y="0">KEEP IT</tspan></text>
+                  <text id="SIMPLE" transform="translate(6.021 8.799)" fill="#1a1c1c" font-size="4" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-7.298" y="0">SIMPLE</tspan></text>
+                </g>
+              </g>
+              <g id="Group_170" data-name="Group 170" transform="translate(1.148 6.654)">
+                <rect id="Rectangle_1576" data-name="Rectangle 1576" width="1.613" height="1.613" transform="translate(0 0)" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1736" data-name="Path 1736" d="M668.546,160.61h0A1.613,1.613,0,0,1,666.933,159h1.613Z" transform="translate(-640.259 -158.997)" fill="url(#linear-gradient-3)"/>
+              </g>
+              <path id="Path_1737" data-name="Path 1737" d="M541.365,181.975h-.207a4.156,4.156,0,0,0-4.152-4.152v-.207A4.363,4.363,0,0,1,541.365,181.975Z" transform="translate(-536.059 -167.111)" fill="url(#linear-gradient-3)"/>
+              <g id="Group_171" data-name="Group 171" transform="translate(26.653 1.435)">
+                <circle id="Ellipse_61" data-name="Ellipse 61" cx="0.252" cy="0.252" r="0.252" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1738" data-name="Path 1738" d="M670.228,134.019a.252.252,0,1,1-.252-.252A.252.252,0,0,1,670.228,134.019Z" transform="translate(-667.979 -133.767)" fill="url(#linear-gradient-22)"/>
+              </g>
+            </g>
+            <g id="Group_174" data-name="Group 174" transform="translate(16.409 27.635)">
+              <rect id="Rectangle_1577" data-name="Rectangle 1577" width="14.618" height="15.482" rx="2.05" fill="#fff"/>
+              <text id="Show_Your_Class" data-name="Show
+Your
+Class" transform="translate(6.743 4.255)" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-2.563" y="0">Show</tspan><tspan x="-2.189" y="3">Your</tspan><tspan x="-2.423" y="6">Class</tspan></text>
+              <g id="Group_173" data-name="Group 173" transform="translate(12.438 1.184)">
+                <circle id="Ellipse_62" data-name="Ellipse 62" cx="0.252" cy="0.252" r="0.252" fill="url(#linear-gradient-3)"/>
+                <circle id="Ellipse_63" data-name="Ellipse 63" cx="0.252" cy="0.252" r="0.252" transform="translate(0 1.746)" fill="url(#linear-gradient-3)"/>
+              </g>
+              <circle id="Ellipse_64" data-name="Ellipse 64" cx="0.808" cy="0.808" r="0.808" transform="translate(1.093 12.825)" fill="url(#linear-gradient-25)"/>
+            </g>
+            <g id="Group_175" data-name="Group 175" transform="translate(0 36.846)">
+              <rect id="Rectangle_1578" data-name="Rectangle 1578" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="film" transform="translate(1.939 7.817)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">film</tspan></text>
+              <path id="Path_1739" data-name="Path 1739" d="M539.393,266.209a1.75,1.75,0,1,0,1.75,1.75A1.75,1.75,0,0,0,539.393,266.209Zm-.452,2.639a.569.569,0,1,1-.569-.986c.272-.157.464-.064.621.209S539.213,268.691,538.941,268.848Zm-.117-1.727a.569.569,0,0,1,1.139,0c0,.314-.255.415-.569.415S538.824,267.436,538.824,267.121Zm1.763,1.54a.569.569,0,0,1-.778.208c-.272-.157-.247-.386-.089-.659s.386-.485.659-.327A.569.569,0,0,1,540.586,268.661Z" transform="translate(-536.564 -265.014)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <g id="Group_177" data-name="Group 177" transform="translate(8.384 36.846)">
+              <rect id="Rectangle_1579" data-name="Rectangle 1579" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="news" transform="translate(1.937 7.817)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">news</tspan></text>
+              <g id="Group_176" data-name="Group 176" transform="translate(1.495 0.928)">
+                <rect id="Rectangle_1580" data-name="Rectangle 1580" width="2.966" height="1.73" transform="translate(0 1.038)" fill="url(#linear-gradient-27)"/>
+                <rect id="Rectangle_1581" data-name="Rectangle 1581" width="1.025" height="1.212" transform="translate(1.995 3.98) rotate(180)" fill="url(#linear-gradient-28)"/>
+                <path id="Path_1740" data-name="Path 1740" d="M584.813,265.815v.164h-.277v-.14a.621.621,0,0,0-1.242,0v.14h-.276v-.164a.9.9,0,0,1,1.8,0Z" transform="translate(-582.432 -264.917)" fill="url(#linear-gradient-29)"/>
+              </g>
+            </g>
+            <g id="Group_179" data-name="Group 179" transform="translate(0 27.635)">
+              <rect id="Rectangle_1582" data-name="Rectangle 1582" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="book" transform="translate(1.937 7.466)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">book</tspan></text>
+              <g id="Group_178" data-name="Group 178" transform="translate(1.17 1.633)">
+                <path id="Path_1741" data-name="Path 1741" d="M539.727,223.888a3.561,3.561,0,0,0-1.644,0v2.393a2.259,2.259,0,0,1,1.644.007Z" transform="translate(-538.083 -223.791)" fill="url(#linear-gradient-30)"/>
+                <path id="Path_1742" data-name="Path 1742" d="M549.285,223.888a3.561,3.561,0,0,0-1.644,0v2.393a2.259,2.259,0,0,1,1.644.007Z" transform="translate(-545.664 -223.791)" fill="url(#linear-gradient-30)"/>
+              </g>
+            </g>
+            <g id="Group_180" data-name="Group 180" transform="translate(8.384 27.635)">
+              <rect id="Rectangle_1583" data-name="Rectangle 1583" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="games" transform="translate(1.491 7.466)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">games</tspan></text>
+              <path id="Path_1743" data-name="Path 1743" d="M581.049,226.447l-.277-.987a.945.945,0,0,0-.548-.624.934.934,0,0,0-.365-.074H577.82a.947.947,0,0,0-.913.7l-.277.987a.742.742,0,0,0,1.432.392l.05-.175a.5.5,0,0,1,.481-.362h.493a.5.5,0,0,1,.481.362l.05.175a.742.742,0,0,0,1.432-.392Zm-2.806-.365a.3.3,0,1,1,.3-.3A.3.3,0,0,1,578.243,226.082Zm1.193,0a.3.3,0,1,1,.3-.3A.3.3,0,0,1,579.436,226.082Z" transform="translate(-575.849 -222.928)" fill="url(#linear-gradient-32)"/>
+            </g>
+            <g id="Group_182" data-name="Group 182" transform="translate(25.152)">
+              <rect id="Rectangle_1584" data-name="Rectangle 1584" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="calculator" transform="translate(0.491 7.318)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">calculator</tspan></text>
+              <g id="Group_181" data-name="Group 181" transform="translate(1.728 1.235)">
+                <path id="Path_1744" data-name="Path 1744" d="M662.38,88.357l0-.037.419-.058h.15v1.285h.145v.035h-.7v-.035h.195V88.331Z" transform="translate(-662.377 -88.262)" fill="url(#linear-gradient-33)"/>
+                <path id="Path_1745" data-name="Path 1745" d="M670.647,88.581c0,.215-.143.308-.6.635l-.113.082h.446c.182,0,.23-.087.258-.23h.031l-.018.514h-.873v-.215l.188-.173a.8.8,0,0,0,.351-.633c0-.184-.036-.264-.164-.264a.131.131,0,0,0-.141.139.162.162,0,0,0,.011.054h.056a.221.221,0,0,1,.014.084.149.149,0,0,1-.163.145.158.158,0,0,1-.165-.173c0-.156.128-.284.429-.284C670.482,88.262,670.647,88.364,670.647,88.581Z" transform="translate(-668.24 -88.262)" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1746" data-name="Path 1746" d="M663.048,99.762l.306-.355h-.475c-.175,0-.208.024-.24.188h-.03l.02-.472h.832v.2l-.206.36c-.2.345-.214.431-.214.555a.271.271,0,0,0,.056.167l-.013.022a.543.543,0,0,1-.115.013.193.193,0,0,1-.215-.182C662.755,100.148,662.788,100.062,663.048,99.762Z" transform="translate(-662.562 -96.876)" fill="url(#linear-gradient-2)"/>
+                <path id="Path_1747" data-name="Path 1747" d="M670.477,99.362c0-.2.159-.338.49-.338s.483.123.483.327c0,.173-.124.291-.368.31v.006c.286.024.4.15.4.34,0,.234-.157.357-.516.357s-.525-.126-.525-.355c0-.2.132-.323.416-.341v-.006C670.613,99.648,670.477,99.529,670.477,99.362Zm.327.646c0,.212.024.316.163.316s.162-.106.162-.321-.03-.318-.162-.318S670.8,99.793,670.8,100.008Zm.169-.366c.121,0,.122-.1.122-.291s-.01-.288-.128-.288-.128.106-.128.288S670.845,99.642,670.973,99.642Z" transform="translate(-668.774 -96.798)" fill="url(#linear-gradient-36)"/>
+              </g>
+            </g>
+            <g id="Group_184" data-name="Group 184" transform="translate(16.768)">
+              <rect id="Rectangle_1585" data-name="Rectangle 1585" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="note" transform="translate(1.612 7.318)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">note</tspan></text>
+              <g id="Group_183" data-name="Group 183" transform="translate(1.303 1.113)">
+                <path id="Rectangle_1586" data-name="Rectangle 1586" d="M.638,0h0a.638.638,0,0,1,.638.638V3.157a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.638A.638.638,0,0,1,.638,0Z" transform="translate(2.578) rotate(45)" fill="url(#linear-gradient-37)"/>
+                <path id="Path_1748" data-name="Path 1748" d="M620.907,99.224l-.8.3a.1.1,0,0,1-.131-.131l.3-.8-.135-.135-.332.877a.276.276,0,0,0,.355.355l.877-.332Z" transform="translate(-619.792 -96.228)" fill="url(#linear-gradient-38)"/>
+              </g>
+            </g>
+            <g id="Group_185" data-name="Group 185" transform="translate(8.384)">
+              <rect id="Rectangle_1587" data-name="Rectangle 1587" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="setting" transform="translate(1.257 7.318)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">setting</tspan></text>
+              <path id="Path_1749" data-name="Path 1749" d="M581.827,89.528v-.6l-.48-.064a1.431,1.431,0,0,0-.153-.37l.294-.385-.422-.422-.385.294a1.435,1.435,0,0,0-.37-.153l-.064-.48h-.6l-.064.48a1.437,1.437,0,0,0-.37.153l-.385-.294-.422.422.294.385a1.427,1.427,0,0,0-.153.37l-.48.064v.6l.48.064a1.427,1.427,0,0,0,.153.37l-.294.385.422.422.385-.294a1.438,1.438,0,0,0,.37.153l.064.48h.6l.064-.48a1.435,1.435,0,0,0,.37-.153l.385.294.422-.422-.294-.385a1.431,1.431,0,0,0,.153-.37Zm-1.789.253a.558.558,0,1,1,.463-.463A.559.559,0,0,1,580.037,89.782Z" transform="translate(-577.014 -86.306)" fill="url(#linear-gradient-39)"/>
+            </g>
+            <g id="Group_186" data-name="Group 186">
+              <rect id="Rectangle_1588" data-name="Rectangle 1588" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="healthy" transform="translate(0.845 7.318)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">healthy</tspan></text>
+              <path id="Path_1750" data-name="Path 1750" d="M541.477,90.609a.934.934,0,0,0-1.32,0l-.114.116-.116-.116a.936.936,0,0,0-1.294-.026.969.969,0,0,0,.005,1.381l.083.083.055.055h.217l.332-.532a.2.2,0,0,1,.168-.094.2.2,0,0,1,.171.091l.368.561.537,0v.207h-.542a.2.2,0,0,1-.169-.091l-.368-.56-.327.534a.2.2,0,0,1-.17.094h-.01l.924.924a.19.19,0,0,0,.269,0l1.187-1.187.114-.114a.936.936,0,0,0,0-1.322Z" transform="translate(-537.122 -88.672)" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_225" data-name="Group 225" transform="translate(96.645 50.452)">
+        <rect id="Rectangle_1589" data-name="Rectangle 1589" width="39.411" height="82.55" rx="7.49" fill="url(#linear-gradient-41)"/>
+        <g id="Group_224" data-name="Group 224" transform="translate(2.681 6.586)">
+          <g id="Group_198" data-name="Group 198" transform="translate(0 61.724)">
+            <path id="Rectangle_1590" data-name="Rectangle 1590" d="M4.623,0H29.828a4.623,4.623,0,0,1,4.623,4.623v0a4.623,4.623,0,0,1-4.623,4.623H4.623A4.623,4.623,0,0,1,0,4.623v0A4.623,4.623,0,0,1,4.623,0Z" fill="#fff"/>
+            <g id="Group_192" data-name="Group 192" transform="translate(26.768 1.677)">
+              <rect id="Rectangle_1591" data-name="Rectangle 1591" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_191" data-name="Group 191" transform="translate(1.283 1.316)">
+                <g id="Group_190" data-name="Group 190">
+                  <path id="Path_1751" data-name="Path 1751" d="M432.064,395.236v1.932h0a.629.629,0,0,1-.4.519c-.3.15-.625.12-.719-.068s.078-.462.382-.612a.772.772,0,0,1,.523-.077v-1.475l-1.491.439v1.783h0a.629.629,0,0,1-.4.519c-.3.15-.626.12-.719-.068s.078-.462.382-.612a.772.772,0,0,1,.523-.077v-1.7l1.932-.568Z" transform="translate(-429.202 -395.169)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_194" data-name="Group 194" transform="translate(10 1.677)">
+              <rect id="Rectangle_1592" data-name="Rectangle 1592" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_193" data-name="Group 193" transform="translate(1.128 1.167)">
+                <circle id="Ellipse_65" data-name="Ellipse 65" cx="0.199" cy="0.199" r="0.199" transform="translate(1.594 1.595)" fill="#fff"/>
+                <path id="Path_1752" data-name="Path 1752" d="M349.178,394.448a1.793,1.793,0,1,0,1.793,1.793A1.793,1.793,0,0,0,349.178,394.448Zm.471,2.262h0v0h0l-1.366.428.428-1.366h0v0h0l1.366-.428-.428,1.366Z" transform="translate(-347.385 -394.448)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_195" data-name="Group 195" transform="translate(1.616 1.677)">
+              <rect id="Rectangle_1593" data-name="Rectangle 1593" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <path id="Path_1753" data-name="Path 1753" d="M310.037,397h-3.514a.108.108,0,0,0-.109.109v2.236a.11.11,0,0,0,.109.109h3.514a.111.111,0,0,0,.109-.109v-2.236A.11.11,0,0,0,310.037,397Zm-.5.729-.663.637.495.495a.109.109,0,0,1-.153.155l-.5-.5-.365.348a.1.1,0,0,1-.074.031.1.1,0,0,1-.077-.031l-.363-.348-.479.479a.109.109,0,0,1-.079.031.1.1,0,0,1-.077-.031.108.108,0,0,1,0-.155l.477-.477-.639-.61a.109.109,0,1,1,.151-.158l1.085,1.039,1.107-1.063a.11.11,0,0,1,.155,0A.107.107,0,0,1,309.541,397.729Z" transform="translate(-305.377 -395.305)" fill="#fff"/>
+            </g>
+            <g id="Group_197" data-name="Group 197" transform="translate(18.384 1.677)">
+              <rect id="Rectangle_1594" data-name="Rectangle 1594" width="5.875" height="5.875" rx="2.938" fill="url(#linear-gradient-14)"/>
+              <g id="Group_196" data-name="Group 196" transform="translate(1.254 1.35)">
+                <path id="Path_1754" data-name="Path 1754" d="M391.129,395.964l-.134-.405a.322.322,0,0,0-.308-.223h-.972a.324.324,0,0,0-.308.223l-.134.405H388.8a.272.272,0,0,0-.272.272v1.9a.272.272,0,0,0,.272.272H391.6a.272.272,0,0,0,.272-.272v-1.9a.272.272,0,0,0-.272-.272Zm-.929,1.773a.658.658,0,1,1,.658-.658A.657.657,0,0,1,390.2,397.736Z" transform="translate(-388.531 -395.335)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_223" data-name="Group 223" transform="translate(1.554)">
+            <g id="Group_199" data-name="Group 199" transform="translate(0.062 18.423)">
+              <rect id="Rectangle_1595" data-name="Rectangle 1595" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="message" transform="translate(0.937 7.276)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">message</tspan></text>
+              <path id="Path_1755" data-name="Path 1755" d="M310.4,179.711h-3.514a.108.108,0,0,0-.109.109v2.236a.11.11,0,0,0,.109.109H310.4a.111.111,0,0,0,.109-.109V179.82A.11.11,0,0,0,310.4,179.711Zm-.5.729-.663.637.494.495a.108.108,0,0,1-.077.186.109.109,0,0,1-.077-.031l-.5-.5-.365.348a.1.1,0,0,1-.074.031.1.1,0,0,1-.077-.031l-.363-.348-.479.479a.108.108,0,0,1-.079.031.1.1,0,0,1-.077-.031.109.109,0,0,1,0-.155l.477-.477-.639-.61a.109.109,0,1,1,.151-.158l1.085,1.039,1.107-1.063a.11.11,0,0,1,.155,0A.108.108,0,0,1,309.9,180.439Z" transform="translate(-305.665 -177.984)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <g id="Group_201" data-name="Group 201" transform="translate(0.062 27.635)">
+              <rect id="Rectangle_1596" data-name="Rectangle 1596" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="contact" transform="translate(1.176 7.283)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">contact</tspan></text>
+              <g id="Group_200" data-name="Group 200" transform="translate(1.708 1.451)">
+                <path id="Path_1756" data-name="Path 1756" d="M314.329,223.367a.457.457,0,1,1-.457-.457A.457.457,0,0,1,314.329,223.367Z" transform="translate(-312.638 -222.91)" fill="url(#linear-gradient-47)"/>
+                <path id="Rectangle_1597" data-name="Rectangle 1597" d="M1.234,0h0A1.234,1.234,0,0,1,2.467,1.234v.383a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1.234A1.234,1.234,0,0,1,1.234,0Z" transform="translate(0 1.374)" fill="url(#linear-gradient-3)"/>
+              </g>
+            </g>
+            <g id="Group_203" data-name="Group 203" transform="translate(8.446 27.635)">
+              <rect id="Rectangle_1598" data-name="Rectangle 1598" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="video_call" data-name="video call" transform="translate(0.937 7.283)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">video call</tspan></text>
+              <g id="Group_202" data-name="Group 202" transform="translate(1.433 2.292)">
+                <rect id="Rectangle_1599" data-name="Rectangle 1599" width="2.116" height="1.705" rx="0.853" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1757" data-name="Path 1757" d="M361.066,228.9l.286.195a.177.177,0,0,0,.277-.146v-1.035a.177.177,0,0,0-.277-.146l-.286.195a.177.177,0,0,0-.077.146v.646A.177.177,0,0,0,361.066,228.9Z" transform="translate(-358.48 -227.578)" fill="url(#linear-gradient-33)"/>
+              </g>
+            </g>
+            <g id="Group_206" data-name="Group 206" transform="translate(8.446 18.423)">
+              <rect id="Rectangle_1600" data-name="Rectangle 1600" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="phone" transform="translate(1.437 7.276)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">phone</tspan></text>
+              <g id="Group_205" data-name="Group 205" transform="translate(1.731 1.432)">
+                <g id="Group_204" data-name="Group 204">
+                  <path id="Path_1758" data-name="Path 1758" d="M352.82,178.8l-.107-.183a.65.65,0,0,0-.457-.318.93.93,0,0,0-.782.26,4.78,4.78,0,0,0-1.064,1.413.915.915,0,0,0-.026.8.625.625,0,0,0,.422.35l.224.058a.167.167,0,0,0,.035,0,.18.18,0,0,0,.169-.132,3.645,3.645,0,0,1,.178-.475.177.177,0,0,0-.08-.235l-.125-.063.006-.011a3.887,3.887,0,0,1,.786-1.038l.009-.008.095.1a.067.067,0,0,0,.017.013l.048.026.018.006a.068.068,0,0,0,.021,0l.069,0a.062.062,0,0,0,.046-.016l.028-.024a3.56,3.56,0,0,1,.408-.3A.18.18,0,0,0,352.82,178.8Z" transform="translate(-350.303 -178.283)" fill="url(#linear-gradient-3)"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_208" data-name="Group 208" transform="translate(16.83 46.058)">
+              <rect id="Rectangle_1601" data-name="Rectangle 1601" width="5.875" height="5.875" rx="2.24" transform="translate(0 0)" fill="#fff"/>
+              <text id="photo" transform="translate(1.409 7.322)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">photo</tspan></text>
+              <g id="Group_207" data-name="Group 207" transform="translate(1.228 1.283)">
+                <rect id="Rectangle_1602" data-name="Rectangle 1602" width="3.363" height="3.363" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1759" data-name="Path 1759" d="M392.891,317.092v1.163h-2.568v-1.079l.439-.439.515.515.886-.886Z" transform="translate(-389.926 -315.29)" fill="#fff"/>
+                <circle id="Ellipse_66" data-name="Ellipse 66" cx="0.293" cy="0.293" r="0.293" transform="translate(0.878 0.49)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_211" data-name="Group 211" transform="translate(25.214 46.058)">
+              <rect id="Rectangle_1603" data-name="Rectangle 1603" width="5.875" height="5.875" rx="2.24" transform="translate(0 0)" fill="#fff"/>
+              <text id="camera" transform="translate(1.337 7.322)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">camera</tspan></text>
+              <g id="Group_210" data-name="Group 210" transform="translate(1.337 1.305)">
+                <rect id="Rectangle_1604" data-name="Rectangle 1604" width="3.26" height="3.26" rx="1.63" fill="url(#linear-gradient-3)"/>
+                <g id="Group_209" data-name="Group 209" transform="translate(0.74 0.74)">
+                  <path id="Path_1760" data-name="Path 1760" d="M434.821,315.739a.89.89,0,1,1-.89-.89A.89.89,0,0,1,434.821,315.739Z" transform="translate(-433.041 -314.849)" fill="#fff"/>
+                  <circle id="Ellipse_67" data-name="Ellipse 67" cx="0.493" cy="0.493" r="0.493" transform="translate(0.397 0.397)" fill="url(#linear-gradient-3)"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_213" data-name="Group 213" transform="translate(25.214 36.846)">
+              <rect id="Rectangle_1605" data-name="Rectangle 1605" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="video" transform="translate(1.938 7.314)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">video</tspan></text>
+              <g id="Group_212" data-name="Group 212" transform="translate(1.166 1.473)">
+                <rect id="Rectangle_1606" data-name="Rectangle 1606" width="3.68" height="2.888" rx="1.444" fill="url(#linear-gradient-3)"/>
+                <path id="Path_1761" data-name="Path 1761" d="M434.993,272.461v-1.126a.123.123,0,0,1,.194-.1l.8.563a.123.123,0,0,1,0,.2l-.8.563A.123.123,0,0,1,434.993,272.461Z" transform="translate(-433.678 -270.454)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_214" data-name="Group 214" transform="translate(22.693 19.821)">
+              <path id="Path_1762" data-name="Path 1762" d="M411.316,178.369a.252.252,0,1,1-.252-.252A.252.252,0,0,1,411.316,178.369Z" transform="translate(-410.813 -178.117)" fill="url(#linear-gradient-22)"/>
+              <circle id="Ellipse_68" data-name="Ellipse 68" cx="0.252" cy="0.252" r="0.252" transform="translate(1.746)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <g id="Group_217" data-name="Group 217" transform="translate(0 36.811)">
+              <rect id="Rectangle_1607" data-name="Rectangle 1607" width="14.618" height="15.482" rx="2.05" transform="translate(0 0)" fill="#fff"/>
+              <g id="Group_216" data-name="Group 216" transform="translate(1.029 1.197)">
+                <text id="Make_Things_Happen" data-name="Make
+Things
+Happen" transform="translate(6.648 3.648)" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-2.5" y="0">Make</tspan><tspan x="-3.178" y="3">Things</tspan><tspan x="-3.596" y="6">Happen</tspan></text>
+                <g id="Group_215" data-name="Group 215" transform="translate(9.646 12.582)">
+                  <circle id="Ellipse_69" data-name="Ellipse 69" cx="0.252" cy="0.252" r="0.252" fill="url(#linear-gradient-3)"/>
+                  <circle id="Ellipse_70" data-name="Ellipse 70" cx="0.252" cy="0.252" r="0.252" transform="translate(1.746)" fill="url(#linear-gradient-3)"/>
+                </g>
+                <path id="Path_1763" data-name="Path 1763" d="M307.723,266.043h0a1.647,1.647,0,0,1-1.647,1.647h0v-1.647Z" transform="translate(-306.076 -266.043)" fill="url(#linear-gradient-60)"/>
+              </g>
+            </g>
+            <g id="Group_220" data-name="Group 220" transform="translate(0.256)">
+              <rect id="Rectangle_1608" data-name="Rectangle 1608" width="30.832" height="15.482" rx="2.05" fill="#fff"/>
+              <g id="Group_219" data-name="Group 219" transform="translate(1.28 1.547)">
+                <text id="STAY_CLASS" data-name="STAY CLASS" transform="translate(13.75 7.417)" font-size="4" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-11.376" y="0">STAY CLASS</tspan></text>
+                <text id="ESTD" transform="translate(1.375 1.559)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-1.304" y="0">ESTD</tspan></text>
+                <text id="_2008" data-name="2008" transform="translate(24.985 10.893)" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-1.245" y="0">2008</tspan></text>
+                <g id="Group_218" data-name="Group 218" transform="translate(0.637 10.381)">
+                  <circle id="Ellipse_71" data-name="Ellipse 71" cx="0.252" cy="0.252" r="0.252" transform="translate(0 0)" fill="url(#linear-gradient-3)"/>
+                  <circle id="Ellipse_72" data-name="Ellipse 72" cx="0.252" cy="0.252" r="0.252" transform="translate(1.746 0)" fill="url(#linear-gradient-3)"/>
+                  <path id="Path_1764" data-name="Path 1764" d="M328.994,140.212a.252.252,0,1,1-.252-.252A.252.252,0,0,1,328.994,140.212Z" transform="translate(-324.999 -139.96)" fill="url(#linear-gradient-2)"/>
+                  <circle id="Ellipse_73" data-name="Ellipse 73" cx="0.252" cy="0.252" r="0.252" transform="translate(5.239 0)" fill="url(#linear-gradient-3)"/>
+                </g>
+                <path id="Path_1765" data-name="Path 1765" d="M434.691,92.612h0a1.647,1.647,0,0,1-1.647-1.647h1.647Z" transform="translate(-407.289 -90.718)" fill="url(#linear-gradient-3)"/>
+                <rect id="Rectangle_1609" data-name="Rectangle 1609" width="17.179" height="0.827" transform="matrix(0.707, -0.707, 0.707, 0.707, 7.15, 12.148)" fill="#fff"/>
+                <rect id="Rectangle_1610" data-name="Rectangle 1610" width="17.179" height="0.207" transform="translate(7.369 12.367) rotate(-45)" fill="url(#linear-gradient-66)"/>
+              </g>
+            </g>
+            <g id="Group_221" data-name="Group 221" transform="translate(16.471 18.423)">
+              <rect id="Rectangle_1611" data-name="Rectangle 1611" width="14.618" height="15.482" rx="2.05" fill="#fff"/>
+              <text id="Simple_Always_Elegant" data-name="Simple
+Always
+Elegant" transform="translate(7.428 5.241)" font-size="2" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="-3.225" y="0">Simple</tspan><tspan x="-3.196" y="3">Always</tspan><tspan x="-3.507" y="6">Elegant</tspan></text>
+              <rect id="Rectangle_1612" data-name="Rectangle 1612" width="4.892" height="0.207" transform="translate(4.983 14.071)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <g id="Group_222" data-name="Group 222" transform="translate(16.83 36.846)">
+              <rect id="Rectangle_1613" data-name="Rectangle 1613" width="5.875" height="5.875" rx="2.24" fill="#fff"/>
+              <text id="socmed" transform="translate(1.155 7.314)" fill="#fff" font-size="1" font-family="AbrilFatface-Regular, Abril Fatface"><tspan x="0" y="0">socmed</tspan></text>
+              <path id="Path_1766" data-name="Path 1766" d="M391.013,269.8a1.681,1.681,0,1,0-.316.289c.36.021.751,0,.751,0Zm-2.044-.819a.173.173,0,1,1,.173-.173A.173.173,0,0,1,388.968,268.985Zm.772,0a.173.173,0,1,1,.173-.173A.173.173,0,0,1,389.74,268.985Zm.772,0a.173.173,0,1,1,.173-.173A.173.173,0,0,1,390.512,268.985Z" transform="translate(-386.896 -265.672)" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
