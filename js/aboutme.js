@@ -29,13 +29,3 @@ $("a").hover(function(){
         color: "black"
     });
 });
-
-$("#email").hover(function(){
-    $(this).css({
-        color: "#000000"
-    });
-}, function(){
-    $(this).css({
-        color: "#333333"
-    });
-});

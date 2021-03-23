@@ -27,15 +27,7 @@ body {
   header p {
     display: inline-block;
   }
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100vw;
-    overflow: none;
-  }
-
- 
-
+  
 /* Hero Styling */
   .hero {
     height: 700px;

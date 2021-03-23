@@ -5,7 +5,6 @@ function fade() {
 }
 setTimeout(fade, 1000);
 
-
 $(".viewProject").hover(function(){
     $(this).animate({
         width: "229px"
@@ -14,21 +13,6 @@ $(".viewProject").hover(function(){
     $(this).animate({
         width: "152px"
     });
-});
-
-var stickyNav = $("header").offset().top; 
-var sticky = function(){
-    var scrollTop = $(window).scrollTop();
-    if(scrollTop>stickyNav){
-        $("header").addClass("sticky");
-    }else {
-        $("header").removeClass("sticky");
-    }
-}
-sticky();
-$(window).scroll(function(){
-    sticky();
-});
 });
 //this function works, but its alignment changes on scroll//
 //hero image alignment also changes on scroll//
@@ -70,4 +54,5 @@ $("#email").hover(function(){
     $(this).css({
         color: "#333333"
     });
+});
 });
