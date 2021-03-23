@@ -13,6 +13,12 @@ header {
   background-color:rgba(255,255,255,.67);
   padding: 15px;
 }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  overflow: none;
+}
 header ul {
   float: right;
   color: #222222;
@@ -27,12 +33,7 @@ header li {
 header p {
   display: inline-block;
 }
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100vw;
-  overflow: none;
-}
+
 /*.sticky is a dynamic class I added and used it in the
 js file in order to create a fixed nav menu*/
 /*it works, but having some alignment issues with the 
@@ -97,6 +98,8 @@ nav bar itself and hero image (see js notes)*/
 }
 
 /*My Work section*/
+
+ /*Title*/
  h4 {
   overflow: hidden;
   text-align: center;
@@ -117,6 +120,8 @@ h4:before {
   right: 0.5em;
   margin-left: -61%;
 }
+
+ /*pill boxes*/
 .pillBox {
   border-radius: 20px; 
   line-height: 25px;
@@ -159,8 +164,7 @@ h4:before {
   margin-left: 10px;
 }
 
-
-
+ /*work grid*/
 .workGrid {
     display: grid;
     margin-top: 80px;
