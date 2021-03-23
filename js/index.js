@@ -14,8 +14,6 @@ $(".viewProject").hover(function(){
         width: "152px"
     });
 });
-//this function works, but its alignment changes on scroll//
-//hero image alignment also changes on scroll//
 $("a").hover(function(){
     $(this).css({
         color: "#6973ED"

@@ -12,6 +12,12 @@ body {
   header {
     background-color:white;
     padding: 15px;
+    width: 100vw;
+  }
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100vw;
   }
   header ul {
     float: right;
@@ -27,7 +33,7 @@ body {
   header p {
     display: inline-block;
   }
-  
+
 /* Hero Styling */
   .hero {
     height: 700px;
