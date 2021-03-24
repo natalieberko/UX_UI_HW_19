@@ -37,6 +37,8 @@ header li {
 header p {
   display: inline-block;
 }
+
+/*Hero Styling*/
 .heroImg {
   margin-top: 90px;
   background-color: #e0ebff;
@@ -72,6 +74,8 @@ header p {
 #heroPhoto{
   width: 50%;
 }
+
+/*My Work Styling*/
 #seeWork {
   margin-top: 15vh;
   color:black;
@@ -101,6 +105,8 @@ header p {
   overflow: hidden;
   text-align: center;
   margin-top: 60px;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
 }
 
 h4:before {
@@ -114,48 +120,49 @@ h4:before {
 }
 
  h4:before {
-  right: 0.5em;
-  margin-left: -61%;
+  right: 0.8em;
+  margin-left: -65%;
 }
 
- /*pill boxes*/
+ /*pill boxes in My Work section*/
 .pillBox {
   border-radius: 20px; 
   line-height: 25px;
   padding: 2px;
   padding-left: 10px;
   padding-right: 10px;
-  color: white;
+  color: whitesmoke;
   position: relative;
   bottom: 12vh;
   left: 5.5vw;
   font-family: 'Raleway', sans-serif;
+  font-style:italic;
   font-size: 15px;
 }
 #productDesign, #userResearch {
   display: inline;
-  background-color:#6973ED;
+  background-color:#565EB9;
 }
 #userResearch {
   margin-left: 10px;
 }
 #productDesign2, #Ecommerce {
   display: inline;
-  background-color:#FA8072;
+  background-color:#C4685E;
 }
 #Ecommerce {
   margin-left: 10px;
 }
 #responsiveDesign, #infoArc {
   display: inline;
-  background-color:#4B9AD5;
+  background-color:#407CA8;
 }
 #infoArc {
   margin-left: 10px;
 }
 #uxui, #mobileFirst {
   display: inline;
-  background-color:#E6A34A;
+  background-color: #B58240;
 }
 #mobileFirst {
   margin-left: 10px;
