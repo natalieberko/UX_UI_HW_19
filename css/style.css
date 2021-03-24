@@ -23,11 +23,6 @@ header {
   position: fixed;
   top:0;
 }
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
 header ul {
   float: right;
   color: #222222;
@@ -363,11 +358,35 @@ right:114px;
 #project4 {
   margin-bottom: 200px;
 }
+#heroText {
+  width: 100%;
+}
+.heroContent p {
+  margin-left: 36px;
+  line-height: 1.6;
+}
+.heroContent h1 {
+  font-size: 30px;
+  margin-left: 36px;
+  width: 100%;
+}
+
 #heroPhoto {
   display: none;
 }
 .workGridArea img {
   height: 312px;
   width: 312px;
+}
+header ul {
+  padding-right: 15px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  padding-left: 24px;
+}
+header li {
+  padding: 0px 10px;
 }
 }
